@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\QuickSortt\QuickSortt\bin\Debug\QuickSortt.exe.config
+c:\users\user\documents\visual studio 2012\Projects\QuickSortt\QuickSortt\bin\Debug\QuickSortt.exe
+c:\users\user\documents\visual studio 2012\Projects\QuickSortt\QuickSortt\bin\Debug\QuickSortt.pdb
+c:\users\user\documents\visual studio 2012\Projects\QuickSortt\QuickSortt\obj\Debug\QuickSortt.exe
+c:\users\user\documents\visual studio 2012\Projects\QuickSortt\QuickSortt\obj\Debug\QuickSortt.pdb
